@@ -7,7 +7,6 @@ from nltk.translate.bleu_score import sentence_bleu
 from Levenshtein import distance as levenshtein_distance
 from scipy.spatial.distance import jaccard
 
-
 CONFIG = {
     "d_model": 128,
     "nhead": 4,

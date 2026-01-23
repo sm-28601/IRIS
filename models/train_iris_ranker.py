@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 import math
 import argparse
 
-
 CONFIG = {
     "d_model": 128,
     "nhead": 4,
